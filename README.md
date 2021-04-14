@@ -32,9 +32,8 @@ open terminal inside project folder and cd to ```./``` folder then run ```npm st
 ### Screen shots
 
   
-   ![alt text][one]
+   ![alt text](/iTunesAPI-Reactapp/screenshots/001.png "One")
    
-   [one]: screenshots/001.png "One"
    
    
      
